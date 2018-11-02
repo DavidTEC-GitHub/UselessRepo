@@ -11,6 +11,7 @@ RUN         apk add --no-cache --update \
             && adduser -D -h /home/container container
 
 # Installing Python Dependencies
+RUN         apt-get install python3
 RUN         python3 -m pip install -U https://github.com/Rapptz/discord.py/archive/master.zip#egg=discord.py[voice]
 
 USER        container
