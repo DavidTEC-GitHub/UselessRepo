@@ -84,22 +84,32 @@ If a players send a message while muted that counts as mute evasion which is ban
 ## Find Proof, Players and some General Commands[¶](#finding-proof-and-finding-players "Permalink to this headline")
 
 As a staff member when you are trying to find cheaters you need to first get into vanish by running the following command:  
+
 ```/sv```
+
 When you are in vanish it is a good idea to go to the spectator gamemode. To do that run the following command:  
+
 ```/gmsp```
-After you have vanished you will need to find a player to surveil. To do that you should run the teleportation command:  
+
+After you have vanished you will need to find a player to surveil. To do that you should run the teleportation command: 
+
 ```tp [PLAYER]```
+
 Instead of filling in the player portion of the command you can hold tab and let it autocomplete with a randomly selected player. But you will have to stop holding tab before you teleport.  
+
 
 Once you teleport to a player you can look at their behaviour. To determine what cheats/hacks the player could be using you can take lessons from the higher staff members. You would observe how the player is acting, if it looks like they are cheating and you have oriid then you can ban them. To learn how to ban please read "Banning Players". If the player was cheating and you banned them or the player wasn't cheating and you didn't ban them, you would repeat the teleporting procedure and check that the next player isn't cheating.  
 
 When you want to stop checking if a player is cheating you usually would go to the spawn by running the following command:  
+
 ```/spawn```
 
 Then you would be able to get out of the spectator gamemode by getting into the survival gamemode by running:  
 
 ```/gms```
+
 Now you are ready to get out of vanish by running the vanish command again which is:  
 
 ```/sv```
+
 Now you would be able to go playing the server normally. If you do see a person cheating and you aren't in vanish you can just ban them. To ban people you do not need to be in vanish.  
