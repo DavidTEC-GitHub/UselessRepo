@@ -32,15 +32,15 @@ Here is a filled in example:
 ```/tempban JackCrispy 30d Kill Aura -s```
 You may wander what is bannable. Here is a simple table of cheats.
 
-| Cheat/Offence                           | Ban Length (First Offence) | Ban Length (Second Offence) | Ban Length (Third Offence) |
-| ----------------------------------- | ------------------------------ | ---------------------------------- | ------------------------------- |
-| Kill-Aura                                    | 30 Days                              | 60 Days                                    | Permanent                           | 
-| Anti Knockback                        | 30 Days                              | 60 Days                                    | Permanent                           | 
-| Xray/ChestESP                         | 20 Days                              | 40 Days                                    | Permanent                           | 
-| Auto-Soup                                | 15 Days                              | 30 Days                                    | Permanent                           | 
-| Fly                                             | 15 Days                              | 30 Day                                     | Permanent                            | 
-| Non-Malicious Cheats/Hacks  |  3 Days                                | -                                               | -                                            | 
-| Mute Evasion                           |  3 Days                                | 15 Days                                   | -                                            | 
+| Cheat/Offence                           | Ban Length (First Offence) | Ban Length (Second Offence) | Ban Length (Third Offence) | 
+| ----------------------------------- | ------------------------------ | ---------------------------------- | ------------------------------- | 
+| Kill-Aura                                    | 30 Days                              | 60 Days                                    | Permanent                           |  
+| Anti Knockback                        | 30 Days                              | 60 Days                                    | Permanent                           |  
+| Xray/ChestESP                         | 20 Days                              | 40 Days                                    | Permanent                           |  
+| Auto-Soup                                | 15 Days                              | 30 Days                                    | Permanent                           |  
+| Fly                                             | 15 Days                              | 30 Day                                     | Permanent                            |  
+| Non-Malicious Cheats/Hacks  |  3 Days                                | -                                               | -                                            |  
+| Mute Evasion                           |  3 Days                                | 15 Days                                   | -                                            |  
 
 Any unlistead cheats/hacks/offences such as Derp will always be a 3 day ban as represented by the dashes (-) in the table as they would be part of the Non-Malicious Cheats/Hacks.
 ### Ban Evasion[¶](#ban-evasion "Permalink to this headline")
@@ -53,11 +53,11 @@ Please note that staff will not be able to see players' IPs.
 If you want to manually check if a user is ban evading, you need to run the following command:
 ```/dupeip [USER]```
 If a player ban evaids they could be punished in multiple ways. Here is a table that shows how the cheaters woukd be banned.
-| Main Account Offence              | Consequence                                                     | 
-| ----------------------------------- | ----------------------------------------------------- | 
-| Malicious Cheats/Hacks           | Permanent Ban on All Accounts under their IP | 
-| Non-Malicious Cheats/Hacks   | Same length ban on alt                                      | 
-| Ban Evasion                              | Permanent Ban on All Accounts under their IP | 
+| Main Account Offence              | Consequence                                                     |  
+| ----------------------------------- | ----------------------------------------------------- |  
+| Malicious Cheats/Hacks           | Permanent Ban on All Accounts under their IP |  
+| Non-Malicious Cheats/Hacks   | Same length ban on alt                                      |  
+| Ban Evasion                              | Permanent Ban on All Accounts under their IP |  
 
 ### Muting Players & Dealing with Spam[¶](#settings "Permalink to this headline")
 
@@ -70,12 +70,12 @@ Here is a filled in example:
 ```/mute JackCrispy 5m Spamming -s```
 
 You may wonder what is mutable. Here is a list.
-| Offence                                     | Mute Length (First Offence) | Mute Length (Second Offence) | Mute Length (Third Offence) |
-| ----------------------------------- | ------------------------------- | ----------------------------------- | -------------------------------- |
-| Spam                                        | 5 Minutes                             | 1 Day                                        | Permanent                            | 
-| Staff Disrespect                        | 1 Hour                                  | 7 Days                                      | -                                            | 
-| Hackusting in Chat                   | 5 Minutes                             | 10 Minutes                               | -                                            | 
-| Advertising                                | 1 Day                                   | 7 Days                                      | -                                            | 
+| Offence                                     | Mute Length (First Offence) | Mute Length (Second Offence) | Mute Length (Third Offence) | 
+| ----------------------------------- | ------------------------------- | ----------------------------------- | -------------------------------- | 
+| Spam                                        | 5 Minutes                             | 1 Day                                        | Permanent                            |  
+| Staff Disrespect                        | 1 Hour                                  | 7 Days                                      | -                                            |  
+| Hackusting in Chat                   | 5 Minutes                             | 10 Minutes                               | -                                            |  
+| Advertising                                | 1 Day                                   | 7 Days                                      | -                                            |  
 
 If a players send a message while muted that counts as mute evasion which is bannable. Please check "Banning Players" for the length of the bans.
 
