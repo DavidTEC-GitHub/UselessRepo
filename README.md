@@ -53,6 +53,7 @@ Please note that staff will not be able to see players' IPs.
 If you want to manually check if a user is ban evading, you need to run the following command:  
 ```/dupeip [USER]```
 If a player ban evaids they could be punished in multiple ways. Here is a table that shows how the cheaters woukd be banned.  
+
 | Main Account Offence              | Consequence                                                     |  
 | ----------------------------------- | ----------------------------------------------------- |  
 | Malicious Cheats/Hacks           | Permanent Ban on All Accounts under their IP |  
@@ -70,6 +71,7 @@ Here is a filled in example:
 ```/mute JackCrispy 5m Spamming -s```
 
 You may wonder what is mutable. Here is a list.  
+
 | Offence                                     | Mute Length (First Offence) | Mute Length (Second Offence) | Mute Length (Third Offence) | 
 | ----------------------------------- | ------------------------------- | ----------------------------------- | -------------------------------- | 
 | Spam                                        | 5 Minutes                             | 1 Day                                        | Permanent                            |  
