@@ -69,7 +69,7 @@ You might wander how to mute players, well it is simple. Here is how:
 Here is a filled in example:  
 ```/mute JackCrispy 5m Spamming -s```
 
-You may wonder what is mutable. Here is a list.
+You may wonder what is mutable. Here is a list.  
 | Offence                                     | Mute Length (First Offence) | Mute Length (Second Offence) | Mute Length (Third Offence) | 
 | ----------------------------------- | ------------------------------- | ----------------------------------- | -------------------------------- | 
 | Spam                                        | 5 Minutes                             | 1 Day                                        | Permanent                            |  
