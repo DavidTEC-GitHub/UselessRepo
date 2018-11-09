@@ -1,15 +1,3 @@
-*   [Introduction](index.html#introduction)
-*   [Contents](index.html#contents)
-*   [Banning Players](index.html#banning-players)
-*   [Ban Evasion](index.html#ban-evasion)
-*   [Muting Players & Dealing with Spam](index.html#ban-evasion)
-*   [Find Proof, Players and some General Commands](index.html#finding-proof-and-finding-players)
-
-*   [Docs](index.html#document-index) »
-*   DistrictMC Staff Documentation
-
-* * *
-
 # Welcome to DistrictMC’s staff documentation![¶](#welcome-to-documentation "Permalink to this headline")
 
 
